@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Dummy message 1",
+        "sentAt": 11515454545451
+    },
+    {
+        "text": "Dummy message 2",
+        "sentAt": 11515454545890
+    },
+    {
+        "text": "Dummy message 3",
+        "sentAt": 11515454599890
+    },
+    {
+        "text": "Dummy message 4",
+        "sentAt": 11515454588980
+    }
+]
